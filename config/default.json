@@ -1,0 +1,8 @@
+{
+    "port" : 5000,
+    "connectionDb" : "mongodb+srv://boyqoziyevs0:I2J0IMn1xO3PK1N1@forward.540nvpc.mongodb.net/forward",
+    "jwt_secret" : "juda secret"
+}
+
+
+
